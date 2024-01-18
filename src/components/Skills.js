@@ -36,23 +36,23 @@ export const  Skills = () =>{
                 <div className="col-12">
                     <div className="skill-bx wow zoomIn">
                         <h2>Skills</h2>
-                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry.<br></br> Lorem Ipsum has been the industry's standard dummy text.</p>
+                        <p>I am a skilled and results-driven Associate Software Engineer with a comprehensive background in Backend Development. My proficiency lies in utilizing technologies such as Laravel, REST API, MySQL, PHP, Git, and Angular to design, develop, and deploy robust web applications. With over 3 years of hands-on experience, I have successfully contributed to the development of School Management Systems and Learning Management Systems. My expertise extends to database technologies like MySQL, MS SQL, and PostgreSQL, and I am adept at integrating third-party APIs. My commitment to excellence is evident in my ability to navigate fast-paced, deadline-driven environments while maintaining a self-organized approach. I am a quick learner, detail-oriented, and possess strong analytical and problem-solving skills. My technical skills include programming languages such as PHP, JavaScript, Java, and Python, along with proficiency in debugging tools, API testing, and version control systems like X-Debug, Postman, and Git. This, combined with my educational background, makes me a valuable asset in delivering successful software solutions.<br></br> </p>
                         <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                             <div className="item">
                                 <img src={meter1} alt="Image" />
-                                <h5>Web Development</h5>
+                                <h5>Backend Development</h5>
                             </div>
                             <div className="item">
                                 <img src={meter2} alt="Image" />
-                                <h5>Brand Identity</h5>
+                                <h5>Software Trouble shooting</h5>
                             </div>
                             <div className="item">
                                 <img src={meter3} alt="Image" />
-                                <h5>Logo Design</h5>
+                                <h5>Laravel Developer</h5>
                             </div>
                             <div className="item">
                                 <img src={meter1} alt="Image" />
-                                <h5>Web Development</h5>
+                                <h5>SQL</h5>
                             </div>
                         </Carousel>
                     </div>
